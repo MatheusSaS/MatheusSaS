@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MatheusSaS&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Analista desenvolvedor, e entusiasta de desenvolvimento Full Stack com Svelte/Flask
+- 🔥 Analista desenvolvedor, e entusiasta de desenvolvimento Full Stack com Next.Js
 
 - 🔭 Analista deesenvolvedor at [Linx](https://github.com/chaordic)
 
