@@ -4,8 +4,6 @@
 
 - 🔥 Analista desenvolvedor, e entusiasta de desenvolvimento Full Stack com Next.Js
 
-- 🔭 Analista deesenvolvedor at [Linx](https://github.com/chaordic)
-
 <br><br>
 ## 🛠 &nbsp;Tech Stack
 
