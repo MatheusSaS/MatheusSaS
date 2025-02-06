@@ -7,7 +7,7 @@
 <br><br>
 ## 🛠 &nbsp;Tech Stack
 
-![Next.JS]([https://img.shields.io/badge/-react-05122A?style=flat&logo=react](https://img.shields.io/badge/-next.js-05122A?style=flat&logo=next.js))&nbsp;
+![Next.JS](https://img.shields.io/badge/-next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![React.JS](https://img.shields.io/badge/-react-05122A?style=flat&logo=react)&nbsp;
 ![Tailind CSS](https://img.shields.io/badge/-tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![Svelte](https://img.shields.io/badge/-svelte-05122A?style=flat&logo=svelte)&nbsp;
