@@ -7,9 +7,11 @@
 <br><br>
 ## 🛠 &nbsp;Tech Stack
 
+![Next.JS]([https://img.shields.io/badge/-react-05122A?style=flat&logo=react](https://img.shields.io/badge/-next.js-05122A?style=flat&logo=next.js))&nbsp;
+![React.JS](https://img.shields.io/badge/-react-05122A?style=flat&logo=react)&nbsp;
+![Tailind CSS](https://img.shields.io/badge/-tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![Svelte](https://img.shields.io/badge/-svelte-05122A?style=flat&logo=svelte)&nbsp;
 ![Flask](https://img.shields.io/badge/-flask-05122A?style=flat&logo=flask)&nbsp;
-![Tailind CSS](https://img.shields.io/badge/-tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![Delphi](https://img.shields.io/badge/-delphi-05122A?style=flat&logo=delphi)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
